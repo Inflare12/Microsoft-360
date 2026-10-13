@@ -1,0 +1,10 @@
+{
+  "name": "Microsoft-360",
+  "short_name": "M360",
+  "description": "Free local-first documents, spreadsheets, presentations and BYOK AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#315bea",
+  "icons": []
+}
